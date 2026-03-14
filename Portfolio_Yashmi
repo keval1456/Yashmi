@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yashmi | Portfolio</title>
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+<!-- HERO SECTION -->
+
+<section id="hero">
+
+<h1>Yashmi</h1>
+
+<h2>Chemical Engineering Undergraduate</h2>
+
+<p>
+Aspiring researcher and entrepreneur interested in chemical engineering,
+innovation, and sustainable product development.
+</p>
+
+</section>
+
+
+<!-- ABOUT -->
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+
+I am a Chemical Engineering undergraduate with a strong interest in
+research, innovation, and entrepreneurship. My academic journey focuses
+on building solid engineering fundamentals while exploring real-world
+applications in product development and sustainable technologies.
+
+I actively participate in innovation challenges, research opportunities,
+and entrepreneurship initiatives that combine science with impactful
+solutions.
+
+</p>
+
+</section>
+
+
+<!-- EDUCATION -->
+
+<section id="education">
+
+<h2>Education</h2>
+
+<h3>Bachelor of Technology – Chemical Engineering</h3>
+
+<p>Current CGPA: 8.09</p>
+
+<p>Expected Graduation: 2027</p>
+
+</section>
+
+
+<!-- EXPERIENCE -->
+
+<section id="experience">
+
+<h2>Experience</h2>
+
+<h3>Research Intern – IIT Mandi</h3>
+
+<p>May 2026 – July 2026</p>
+
+<p>
+Selected for a research internship focusing on experimental work,
+technical documentation, and chemical engineering research exposure
+in an academic laboratory environment.
+</p>
+
+</section>
+
+
+<!-- PROJECTS -->
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<h3>L’Oréal Brandstorm Innovation Challenge</h3>
+
+<p>
+
+Worked in a multidisciplinary team to design an innovative solid perfume
+concept featuring lightweight packaging, customizable design, and
+hypoallergenic fragrance formulation.
+
+Conducted market research and collected over 250+ user survey responses
+to validate the product concept.
+
+</p>
+
+</section>
+
+
+<!-- SKILLS -->
+
+<section id="skills">
+
+<h2>Technical Skills</h2>
+
+<ul>
+
+<li>Chemical Reaction Engineering</li>
+
+<li>Heat Transfer</li>
+
+<li>Process Calculations</li>
+
+<li>Data Analysis (Excel)</li>
+
+<li>Technical Presentations</li>
+
+</ul>
+
+</section>
+
+
+<!-- LEADERSHIP -->
+
+<section id="leadership">
+
+<h2>Leadership & Activities</h2>
+
+<h3>Campus Ambassador – IIT Bombay Chemical Symposium</h3>
+
+<p>
+Promoted student participation and facilitated communication between
+organizers and students.
+</p>
+
+
+<h3>Entrepreneurship & Incubation Certification</h3>
+
+<p>
+Completed certification focused on startup ideation, innovation
+ecosystems, and business model development.
+</p>
+
+</section>
+
+
+<!-- SOCIAL WORK -->
+
+<section id="social">
+
+<h2>Social Engagement</h2>
+
+<h3>Social & Civic Internship</h3>
+
+<p>
+
+Participated in community engagement initiatives focused on
+social awareness and civic participation.
+
+</p>
+
+</section>
+
+
+<!-- CONTACT -->
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: your-email@example.com</p>
+
+<p>LinkedIn: linkedin.com/in/yourprofile</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Yashmi</p>
+
+</footer>
+
+
+</body>
+
+</html>
